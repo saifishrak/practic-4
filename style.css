@@ -1,0 +1,14 @@
+.mt-6 {
+    margin-top: 10rem;
+}
+
+.caro {
+    background-color: #A6BCCA;
+    color: white;
+    border-radius: 10px;
+}
+
+.caro,
+p {
+    font-size: 20px;
+}
